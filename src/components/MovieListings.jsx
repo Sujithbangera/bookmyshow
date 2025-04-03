@@ -72,4 +72,9 @@ function MovieListings() {
   );
 }
 
+
+// </Carousel.Item>
+//       ))}
+//     </Carousel>
+//   );
 export default MovieListings;

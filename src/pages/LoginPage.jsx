@@ -29,4 +29,9 @@ function LoginPage() {
   );
 }
 
+// </Carousel.Item>
+//       ))}
+//     </Carousel>
+//   );
+
 export default LoginPage;

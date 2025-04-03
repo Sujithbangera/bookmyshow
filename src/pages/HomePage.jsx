@@ -81,7 +81,10 @@ function HomePage() {
           </div>
         ))}
       </div>
-    </div>
+    </div>// </Carousel.Item>
+//       ))}
+//     </Carousel>
+//   );
   );
 }
 

@@ -48,5 +48,9 @@ function CarouselComponent() {
     </Carousel>
   );
 }
+// </Carousel.Item>
+//       ))}
+//     </Carousel>
+//   );
 
 export default CarouselComponent;
